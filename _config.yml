@@ -1,6 +1,70 @@
-title: Minimal theme
+
+ 
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@shashankd14 
+sajankedia
+/
+portfolio
+Public
+forked from pages-themes/minimal
+ Watch 0 
+Fork 3.6k
+ Star 0
+Code
+Pull requests
+Actions
+Projects
+Security
+Insights
+ master 
+portfolio/_config.yml
+Go to file
+
+@sajankedia
+sajankedia updated the config yaml
+
+Latest commit 829b163 on 4 Sep 2021
+ History
+ 2 contributors
+@benbalter @sajankedia
+20 lines (15 sloc)  572 Bytes
+Raw Blame
+
+ 
+title: <p align="center"> Shashank Dittakavi </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/sajan-kedia-b06a6821/">LinkedIn</a> |
+  <a href="https://github.com/sajankedia">GitHub</a>
+ 
+  <br>  
+  I'm working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  Also handing the Big Data from real-time Ad call data.
+  Worked with IBM Research at Big Data Analytics team.
+  Working in AdTech domain for 3 years.
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
+© 2022 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
+Loading complete
